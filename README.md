@@ -1,5 +1,5 @@
 # Petabridge Workroom
-[![Stories On Deck](https://badge.waffle.io/petabridge/workroom.svg?label=Ready&title=Ready)](http://waffle.io/petabridge/workroom)<br>
+[![Stories On Deck](https://badge.waffle.io/petabridge/workroom.svg?label=Ready)](http://waffle.io/petabridge/workroom)<br>
 [![Stories In Progress](https://badge.waffle.io/petabridge/workroom.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/petabridge/workroom)<br>
 [![Completed Stories](https://badge.waffle.io/petabridge/workroom.svg?label=Done&title=Done)](http://waffle.io/petabridge/workroom)
 
